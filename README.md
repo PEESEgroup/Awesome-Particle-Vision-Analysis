@@ -1,8 +1,9 @@
-# Awesome-Particle-Vision-Analysis
+# Awesome-Particle-Vision-Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 **Particle Vision Analysis** (PVA) merges AI-enhanced imaging and computational techniques to study particles across various media, serving as a cornerstone in understanding their complex properties and behaviors. This multidisciplinary field significantly impacts materials science, pharmaceuticals, environmental science, and industrial processing, contributing to the advancement of both technology and science by providing detailed quantitative and qualitative insights into particle size, shape, distribution, composition, and dynamics
 
-Here, we provide a non-exhaustive list of papers that use AI techniques to analyze and characterize particles in various media.
+> Here, we provide a non-exhaustive list of papers that use AI techniques to analyze and characterize particles in various media.
 
 
 ## 🌟 Introduction
